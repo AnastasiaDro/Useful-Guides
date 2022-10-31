@@ -7,6 +7,8 @@ Kdoc позволит не только добавлять описание фа
 ![](kdoc-variable-demonstration.png)
 - видеть ссылки на переменные
 ![](kdoc-variable-demonstration.png)
+- увидеть описания переменных и параметров функций в любом месте кода, наведя курсор на них (см. ниже примеры доки для методов)
+- читать доку и понимать свой код даже через 3 дня, а не как я обычно =)
 
 ## Подробнее про Kdok:
 - https://kotlinlang.org/docs/kotlin-doc.html
@@ -48,4 +50,4 @@ Kdoc позволит не только добавлять описание фа
     }
   ```
   Пример:
-![](kdoc-func-desc-demonstration.png)
+  ![](Kdoc-func-demonstration.png)
